@@ -1,0 +1,2 @@
+MNIST/MNIST.zip filter=lfs diff=lfs merge=lfs -text
+AudioMNIST/AudioMNIST.zip filter=lfs diff=lfs merge=lfs -text
