@@ -1,3 +1,4 @@
 MNIST/MNIST.zip filter=lfs diff=lfs merge=lfs -text
 AudioMNIST/AudioMNIST.zip filter=lfs diff=lfs merge=lfs -text
 CIFAR-10/CIFAR-10.zip filter=lfs diff=lfs merge=lfs -text
+CIFAR-100/CIFAR-100.zip filter=lfs diff=lfs merge=lfs -text
